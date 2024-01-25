@@ -59,3 +59,6 @@ input.empty {
   background-color: white;
 }
 
+.uc-nokta {
+    text-overflow: ellipsis;/* eğer uzun ise sonuna 3 nokta koyar */
+}
